@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "cd550d9aa00a81955d05",
-    "url": "/funnybars/static/css/main.b84e58eb.chunk.css"
+    "revision": "44a275a2ac90fd60b00c",
+    "url": "/funnybars/static/css/main.3bf43660.chunk.css"
   },
   {
-    "revision": "cd550d9aa00a81955d05",
-    "url": "/funnybars/static/js/main.cd550d9a.chunk.js"
+    "revision": "44a275a2ac90fd60b00c",
+    "url": "/funnybars/static/js/main.44a275a2.chunk.js"
   },
   {
     "revision": "abc14ef833ab19f69c86",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/funnybars/static/js/2.57a5c759.chunk.js"
   },
   {
-    "revision": "dcce0a04ff86665d6df4d83e89b9795f",
+    "revision": "8175a8915fd401ba270038a2424eb876",
     "url": "/funnybars/index.html"
   }
 ];
